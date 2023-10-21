@@ -1,0 +1,6 @@
+[submodule "Code/Plugins/FancyCore"]
+	path = Code/Plugins/FancyCore
+	url = ../FancyCore.git
+[submodule "Code/Plugins/FancyCore.Godot"]
+	path = Code/Plugins/FancyCore.Godot
+	url = ../FancyCore.Godot.git
