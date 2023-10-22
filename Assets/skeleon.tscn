@@ -1,0 +1,10 @@
+[gd_scene load_steps=2 format=3 uid="uid://dppwwa3cx7jwo"]
+
+[ext_resource type="Texture2D" uid="uid://ce478swo8hlpm" path="res://Assets/Images/skeleton.png" id="1_jwdyo"]
+
+[node name="Skeleon" type="Node2D"]
+
+[node name="Sprite2D" type="Sprite2D" parent="."]
+position = Vector2(-32, -57)
+texture = ExtResource("1_jwdyo")
+centered = false

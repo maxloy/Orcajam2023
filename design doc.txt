@@ -1,0 +1,64 @@
+AND THEN THERE WAS FIRE
+
+A lone necromancer at the end of the world attempts to revive nature in the face of an undending cyclical storm of fire.
+
+
+Spend Mana to resurrect skeletons from bones
+Use skeletons to plant seeds
+Seeds grow into trees when exposed to fire
+Harvesting trees gives seeds
+Consume the lifeforce from seeds to gain mana
+Skeletons burn in fire, leaving bones.
+
+
+
+
+
+Initial setup:
+some seeds, some mana, some bones
+
+Final score: waves survived
+
+
+Screens:
+MainMenu
+	- Play
+	- Quit
+InGame
+	- Resource Display
+		- Mana
+		- Skeletons
+		- Seeds
+	- Menu Button
+EscMenu
+	- Resume
+	- Quit
+
+
+Controls: ??
+
+Map:
+- Rock and grass areas
+- Rock is impassible to fire and skeletons
+
+
+
+Assets:
+
+Tree
+Seed
+Skeleton
+Bones
+
+
+Failure conditions:
+- Zero skeletons and not enough mana to summon any/enough seeds to get enough mana to summon any
+"Your power wanes"
+- Zero seeds
+
+
+stretch goals:
+space to pause
+About screen
+
+digging firebreaks
