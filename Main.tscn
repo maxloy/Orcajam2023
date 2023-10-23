@@ -130,6 +130,7 @@ size_flags_horizontal = 4
 text = "Quit"
 
 [node name="Ingame" type="Control" parent="Camera2D/UIManager" node_paths=PackedStringArray("MainControls", "SummonSkeletonControls", "PlantTreeControls", "HarvestTreeControls")]
+visible = false
 layout_mode = 1
 anchors_preset = 15
 anchor_right = 1.0
